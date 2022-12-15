@@ -1,0 +1,21 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "description": "Authentication system made using github codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srivenkat13/auth-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srivenkat13/auth-system/issues"
+  },
+  "homepage": "https://github.com/srivenkat13/auth-system#readme"
+}
